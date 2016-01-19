@@ -1,5 +1,5 @@
 # Detecting-a-Device-with-Spring
-A Spring MVC application that detects the type of device that is accessing your web site and that switches views dynamically based on that device type.
+A Spring application that detects the type of device that is accessing your web site and that switches views dynamically based on that device type.
 
 Build and Run the jar file:
 
